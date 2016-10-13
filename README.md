@@ -1,2 +1,0 @@
-# GigHub
-Tutorial
